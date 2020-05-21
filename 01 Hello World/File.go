@@ -15,3 +15,8 @@ func main() {
     // If you don't want it just use print instead
     fmt.Println("Hello World!")
 }
+
+/*
+Output:
+Hello World!
+*/
